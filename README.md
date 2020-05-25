@@ -2,4 +2,10 @@
 Android Dice Roler
 
 
+
 TESTE
+
+#
+##
+###
+
